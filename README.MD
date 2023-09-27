@@ -26,6 +26,7 @@ start AIBootcamp2.exe %1
 
 ## Building
 You can build the patch yourself by cloning the repo  and opening the solution. You will need to add the following references:
+- Assembly-CSharp
 - MelonLoader
 - UnityEngine
 - UnityEngine.CoreModule
